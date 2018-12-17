@@ -1,0 +1,1 @@
+first webpack assets management
